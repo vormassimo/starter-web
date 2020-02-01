@@ -17,3 +17,7 @@ Testo Deployment
 ## How To Contribute
 
 Testo Contribute
+
+## Copyrights Notes
+
+Copyright
